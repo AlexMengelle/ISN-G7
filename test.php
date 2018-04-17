@@ -3,7 +3,7 @@
   <title>Test PHP</title>
  </head>
   
-  <button> < </button>  
+  <button type="button" onclick="alert('Hello world!')"> < </button>  
   <?php $mois="janvier"; 
   echo "".$mois;  ?>
   <button> > </button> 
